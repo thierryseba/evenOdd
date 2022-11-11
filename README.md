@@ -2,6 +2,7 @@
 
 [![Build Status](http://192.168.130.135:8080/buildStatus/icon?job=libraries)](http://192.168.130.135:8080/job/libraries/)
 
+
 A Jenkins even/odd playbook from the Jenkins.io documentation
 Add this as a shared library called evenOdd in your jenkins
 instance, and then instantiate the pipeline in your project Jenkinsfile
